@@ -112,3 +112,10 @@ I release as **DRAEXON**. Brazilian baile funk, montagem, and funk soca.
 - Shipping Allmarkive toward a public release
 - Open to SDE internships for Summer 2027, remote or otherwise
 - Codeforces max 1404, still climbing
+
+<div align="center">
+<br>
+
+<img src="https://count.getloli.com/get/@draexon?theme=rule34" alt="visitor count" />
+
+</div>
