@@ -83,8 +83,7 @@ sidecar for reference matching, and a credit ledger so the queue never runs free
 
 **Inner Glow** · <a href="https://github.com/draexon/Inner-Glow-Effect">repo</a>
 
-The cursor tracking reveal from the portfolio. Concentric falloff zones, seeded
-randomness, and no requestAnimationFrame loop anywhere in it.
+Inner Glow Effect which is applied to Layer in After Effect , BUT This Inner Glow Effect will Show Up in Effects Menu such that you can drag and drop to Effect Panel and Customize it .
 
 `React` `TypeScript` `Canvas`
 
