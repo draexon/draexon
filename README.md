@@ -4,7 +4,7 @@
 
 **Draexon** · full stack, product, and design · IIT Jodhpur
 
-<a href="https://draexon.vercel.app">Portfolio</a> ·
+<a href="https://draexon.dev">Portfolio</a> ·
 <a href="mailto:parthilkukadiya2110@gmail.com">email</a> ·
 <a href="https://linkedin.com/in/parthil-kukadiya-316343329">linkedin</a> ·
 <a href="https://codeforces.com/profile/draexon">codeforces</a> ·
@@ -28,7 +28,7 @@ Also release music, which is where most of the design instinct comes from.
 
 <img src="assets/allmarkive.gif" width="100%" />
 
-**Allmarkive** · <a href="https://allmarkive.vercel.app">live</a>
+**Allmarkive** · <a href="https://allmarkive.com">live</a>
 
 Save anything from Instagram, TikTok, or YouTube with the share sheet and let it
 file itself. Dual ingest pipeline, Web Share Target as the primary capture path,
